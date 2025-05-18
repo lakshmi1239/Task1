@@ -10,7 +10,7 @@ body {
 
 a{
     text-decoration: none;
-    color: aliceblue;
+    color:black;
 }
 
 .header {
@@ -43,7 +43,7 @@ button {
 }
 
 button:hover {
-  background-color: #256d6a;
+  background-color: #b7cfce;
 }
 img{
     width: 500px;
